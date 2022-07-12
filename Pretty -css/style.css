@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+header{
+    background-image: url(image/zakat.jpg);
+}
+header h1{
+    color: blue;
+}
+.top-position{
+    display: flex;
+    width: 80%;
+    margin: 10px 100px;
+    /* justify-content: center;
+    align-items: center; */
+}
+.div-1 img{
+  height: 80%;  
+  padding-left: 95px;
+   
+}
+.second-position{
+    display: flex;
+    width: 80%;
+    margin: 100px;
+    /* justify-content: center;
+    align-items: center; */
+}
+.div-2 img{
+  height: 80%;  
+  padding-right: 85px;
+   
+}
+.button{
+    padding: ;
+    background-color: ;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+}
+    
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: aqua;
+}
+    
