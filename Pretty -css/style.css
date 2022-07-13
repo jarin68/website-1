@@ -2,12 +2,13 @@ body{
     margin: 0;
 }
 .header{
+    background-image: url(../image/Rectangle\ 1.png);
   display: flex;
   flex-direction: column;
   text-align: center; */
 }
-header h1{
-    color: blue;
+.header h1, p{
+    c
 }
 .top-position{
     display: flex;
@@ -17,8 +18,10 @@ header h1{
     align-items: center; */
 }
 .div-1 img{
+    /* background-image: url(image/Rectangle 1.png); */
   height: 80%;  
   padding-left: 95px;
+  /* width: 100%; */
    
 }
 .second-position{
